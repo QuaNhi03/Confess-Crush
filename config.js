@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hello Con Vịt Lì Lụm",
-    introTitle: 'Đỗ Thị Kiều Diễm',
+    introTitle: 'Đỗ Thị Ngọc Diễm',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
